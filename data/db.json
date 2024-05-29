@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "",
+            "password": ""
+        }
+    ],
+    "products": [
+        {
+            "product-picture": "",
+            "product-name": "",
+            "product-description": "I am a descriptive, product description",
+            "product-price": "",
+            "available-quantity": ""
+        }
+    ],
+    "cart": [
+        {
+            "cart-count": 0,
+            "cart-total-price": 0
+        }
+    ],
+    "orders": [{}]
+}
