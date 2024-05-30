@@ -7,11 +7,36 @@
     ],
     "products": [
         {
-            "product-picture": "",
-            "product-name": "",
+            "id": 1,
+            "productPicture": "https://cdn.pixabay.com/photo/2016/01/09/16/28/monitor-1130493_640.png",
+            "productName": "Monitor",
+            "productDescription": "I am a descriptive, product description",
+            "productPrice": 14500,
+            "availableQuantity": 210
+        },
+        {
+            "id": 2,
+            "product-picture": "https://cdn.pixabay.com/photo/2012/12/17/19/14/keyboard-70506_1280.jpg",
+            "product-name": "Mechanical-Keyboard",
             "product-description": "I am a descriptive, product description",
-            "product-price": "",
-            "available-quantity": ""
+            "product-price": 9500,
+            "available-quantity": 90
+        },
+        {
+            "id": 3,
+            "product-picture": "https://cdn.pixabay.com/photo/2015/08/18/01/54/computer-893226_640.jpg",
+            "product-name": "HDMI-Cable",
+            "product-description": "I am a descriptive, product description",
+            "product-price": 500,
+            "available-quantity": 10
+        },
+        {
+            "id": 4,
+            "product-picture": "https://cdn.pixabay.com/photo/2017/05/24/21/33/workplace-2341642_640.jpg",
+            "product-name": "Mouse",
+            "product-description": "I am a descriptive, product description",
+            "product-price": 500,
+            "available-quantity": 70
         }
     ],
     "cart": [
